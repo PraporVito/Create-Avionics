@@ -16,7 +16,7 @@
 To compile the mod, you will need the dependency `.jar` files (Create, Sable, Ponder, etc.). Place them in the `libs/` folder and run:
 ```bash
 ./gradlew build
-
+```
 
 # Create: Avionics
 
@@ -36,3 +36,4 @@ To compile the mod, you will need the dependency `.jar` files (Create, Sable, Po
 Для компиляции мода вам понадобятся `.jar` файлы зависимостей (Create, Sable, Ponder и др.). Поместите их в папку `libs/` и запустите:
 ```bash
 ./gradlew build
+```
