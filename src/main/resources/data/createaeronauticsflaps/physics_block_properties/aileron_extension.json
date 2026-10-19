@@ -1,0 +1,6 @@
+{
+  "selector": "createaeronauticsflaps:aileron_extension",
+  "properties": {
+    "sable:mass": 0.25
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "createaeronauticsflaps:block/aileron_extension" },
+    "facing=south": { "model": "createaeronauticsflaps:block/aileron_extension", "y": 180 },
+    "facing=east": { "model": "createaeronauticsflaps:block/aileron_extension", "y": 90 },
+    "facing=west": { "model": "createaeronauticsflaps:block/aileron_extension", "y": 270 },
+    "facing=up": { "model": "createaeronauticsflaps:block/aileron_extension", "x": 90 },
+    "facing=down": { "model": "createaeronauticsflaps:block/aileron_extension", "x": 270 }
+  }
+}

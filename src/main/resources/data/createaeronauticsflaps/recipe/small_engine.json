@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "JRKVJ",
+    "JAICS",
+    "JATGW",
+    "JAPCL",
+    "JMBEJ"
+  ],
+  "key": {
+    "J": { "item": "create:iron_sheet" },
+    "R": { "item": "minecraft:stick" },
+    "K": { "item": "create:andesite_casing" },
+    "V": { "item": "create:encased_fan" },
+    "A": { "item": "create:andesite_alloy" },
+    "I": { "item": "minecraft:iron_block" },
+    "C": { "item": "create:adjustable_chain_gearshift" },
+    "S": { "item": "create:cogwheel" },
+    "T": { "item": "create:fluid_tank" },
+    "G": { "item": "create:gearshift" },
+    "W": { "item": "create:shaft" },
+    "P": { "item": "simulated:red_portable_engine" },
+    "L": { "item": "create:large_cogwheel" },
+    "E": { "item": "create:steam_engine" },
+    "M": { "item": "minecraft:copper_block" },
+    "B": { "item": "create:blaze_burner" }
+  },
+  "result": {
+    "id": "createaeronauticsflaps:small_engine",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=north,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base" },
+    "facing=north,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered" },
+    "facing=north,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted" },
+    "facing=north,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered" },
+
+    "facing=south,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base", "y": 180 },
+    "facing=south,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered", "y": 180 },
+    "facing=south,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted", "y": 180 },
+    "facing=south,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered", "y": 180 },
+
+    "facing=east,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base", "y": 90 },
+    "facing=east,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered", "y": 90 },
+    "facing=east,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted", "y": 90 },
+    "facing=east,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered", "y": 90 },
+
+    "facing=west,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base", "y": 270 },
+    "facing=west,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered", "y": 270 },
+    "facing=west,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted", "y": 270 },
+    "facing=west,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered", "y": 270 },
+
+    "facing=up,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base", "x": 90 },
+    "facing=up,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered", "x": 90 },
+    "facing=up,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted", "x": 90 },
+    "facing=up,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered", "x": 90 },
+
+    "facing=down,side=left,powered=false": { "model": "createaeronauticsflaps:block/aileron_base", "x": 270 },
+    "facing=down,side=left,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_powered", "x": 270 },
+    "facing=down,side=right,powered=false": { "model": "createaeronauticsflaps:block/aileron_base_inverted", "x": 270 },
+    "facing=down,side=right,powered=true": { "model": "createaeronauticsflaps:block/aileron_base_inverted_powered", "x": 270 }
+  }
+}

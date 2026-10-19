@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " SH",
+    "  F"
+  ],
+  "key": {
+    "S": { "item": "simulated:white_symmetric_sail" },
+    "H": { "item": "create:shaft" },
+    "F": { "tag": "minecraft:wooden_fences" }
+  },
+  "result": {
+    "id": "createaeronauticsflaps:aileron_extension",
+    "count": 2
+  }
+}

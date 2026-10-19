@@ -1,0 +1,6 @@
+{
+  "selector": "createaeronauticsflaps:small_engine",
+  "properties": {
+    "sable:mass": 2.0
+  }
+}

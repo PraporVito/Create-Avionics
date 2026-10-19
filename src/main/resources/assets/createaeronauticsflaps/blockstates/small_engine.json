@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "createaeronauticsflaps:block/small_engine" },
+    "facing=south": { "model": "createaeronauticsflaps:block/small_engine", "y": 180 },
+    "facing=east":  { "model": "createaeronauticsflaps:block/small_engine", "y": 90 },
+    "facing=west":  { "model": "createaeronauticsflaps:block/small_engine", "y": 270 }
+  }
+}

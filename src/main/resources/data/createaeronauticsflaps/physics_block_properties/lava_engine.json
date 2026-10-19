@@ -1,0 +1,6 @@
+{
+  "selector": "createaeronauticsflaps:lava_engine",
+  "properties": {
+    "sable:mass": 4
+  }
+}
