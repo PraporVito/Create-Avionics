@@ -1,6 +1,6 @@
-# Create: Avionics
+# Create: Aviators
 
-**Create: Avionics** is an addon for Create Aeronautics that adds compact components for ultralight and small aircraft.
+**Create: Aviators** is an addon for Create Aeronautics that adds compact components for ultralight and small aircraft.
 
 ## ✈️ Features
 * **Ailerons**: Adjustable max angle, wear system (looseness), and jamming risk during sharp maneuvers. Can be repaired with a wrench.
@@ -18,9 +18,9 @@ To compile the mod, you will need the dependency `.jar` files (Create, Sable, Po
 ./gradlew build
 ```
 
-# Create: Avionics
+# Create: Aviators
 
-**Create: Avionics** — это дополнение для Create Aeronautics, добавляющее компактные компоненты для ультралайтов и небольших самолетов.
+**Create: Aviators** — это дополнение для Create Aeronautics, добавляющее компактные компоненты для ультралайтов и небольших самолетов.
 
 ## ✈️ Возможности
 * **Элероны**: Настраиваемый максимальный угол, система износа (люфт), риск заклинивания при резких движениях. Требуют ремонта гаечным ключом.
