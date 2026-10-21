@@ -4,8 +4,8 @@
 
 ## ✈️ Features
 * **Ailerons**: Adjustable max angle, wear system (looseness), and jamming risk during sharp maneuvers. Can be repaired with a wrench.
-* **Small Engine**: Compact power source (up to 4096 SU). Requires water for cooling and fuel (coal/wood).
-* **Lava Engine**: A two-block monster generating 8192 SU. Runs on lava and requires a lot of water. Explodes if overheated!
+* **Small Engine**: Compact power source. Requires water for cooling and fuel (coal/wood).
+* **Lava Engine**: A two-block monster. Runs on lava and requires a lot of water. Explodes if overheated!
 
 ## 📥 Installation
 1. Install Minecraft 1.21.1 and NeoForge.
@@ -24,8 +24,8 @@ To compile the mod, you will need the dependency `.jar` files (Create, Sable, Po
 
 ## ✈️ Возможности
 * **Элероны**: Настраиваемый максимальный угол, система износа (люфт), риск заклинивания при резких движениях. Требуют ремонта гаечным ключом.
-* **Малый двигатель**: Компактный источник вращения (до 4096 SU). Требует воду для охлаждения и топливо (уголь).
-* **Лава-Двигатель**: Двухблочный монстр на 8192 SU. Работает на лаве, требует много воды. При перегреве — взрывается!
+* **Малый двигатель**: Компактный источник вращения. Требует воду для охлаждения и топливо (уголь).
+* **Лава-Двигатель**: Двухблочный монстр. Работает на лаве, требует много воды. При перегреве — взрывается!
 
 ## 📥 Установка
 1. Установите Minecraft 1.21.1 и NeoForge.
